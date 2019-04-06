@@ -13,7 +13,7 @@
   ],
   "author": "Evgeny Poberezkin",
   "license": "MIT",
-  "npmName": "ajv",
+  "npmName": "ajv-dist",
   "npmFileMap": [
     {
       "basePath": "dist",
